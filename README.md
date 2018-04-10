@@ -28,7 +28,7 @@ __Timeline:__ 1 week
 a one-sheet game design sketch. Teams were then formed and each team chose among their designs for 
 which game to create. Below is my one-sheet design sketch that was used during the creation of this game.*
 
-[![OneSheetDesign](Screenshots/OneSheetDesign_480.PNG?raw=true "OneSheetDesign")](Screenshots/OneSheetDesign.PNG?raw=true)
+[![OneSheetDesign](Screenshots/OneSheetDesign_480.png?raw=true "OneSheetDesign")](Screenshots/OneSheetDesign.png?raw=true)
 
 ### Screenshots
 
