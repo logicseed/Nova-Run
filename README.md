@@ -1,3 +1,8 @@
+:warning: | __The content of this repository is explicitly NOT LICENSED for use, modification, or sharing. Per GitHub's terms of service it may only be viewed. See [No License] for more information.__ | :warning:
+--------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------
+
+[No License]: https://choosealicense.com/no-permission/
+
 Game Design I - CIS487 Fall 2016
 ======
 >As out first foray into game design, we were tasked with learning the basics of the Unity game engine
