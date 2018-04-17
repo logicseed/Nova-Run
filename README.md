@@ -6,8 +6,8 @@
 Game Design I - CIS487 Fall 2016
 ======
 >As out first foray into game design, we were tasked with learning the basics of the Unity game engine
->and creating a small playable prototype. We chose my design for a infinite scrolling side scrolling
->shooter *(See one-sheet design below)* and Jeff proceeded to create most of the artwork while I 
+>and creating a small playable prototype. We chose my design for an infinite scrolling side scrolling
+>shooter *(See one-sheet design below)*. Jeff proceeded to create most of the artwork while I 
 >implemented the desired features.
 
 ### Details
